@@ -101,6 +101,7 @@ correlation_matrices/
 feature_importance/
 
 # Documentation drafts
+docs/
 draft_docs/
 research_notes/
 *.md.backup
